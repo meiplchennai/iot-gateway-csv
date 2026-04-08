@@ -15,8 +15,8 @@ Webserver_URL,,,,
 http://49.206.200.53:2095,,,,
 ,,,,
 Device_ID,Data_Type,Address,Length,Queryno
-1,FC03,100,30,Q1
-1,FC03,130,30,Q2
+1,FC03,101,30,Q1
+1,FC03,131,30,Q2
 QEND,,,,
 ,,,,
 Plant_ID,Tag_Type,Variable_ID,,
