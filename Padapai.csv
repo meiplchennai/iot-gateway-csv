@@ -12,7 +12,7 @@ Baud_rate,Data_bits,Parity,Stop_bits,
 9600,8,None,1,
 ,,,,
 Webserver_URL,,,,
-http://gateway.minnotra.in:5000,,,,
+http://49.206.200.53:2095,,,,
 ,,,,
 Device_ID,Data_Type,Address,Length,Queryno
 1,FC03,100,30,Q1
