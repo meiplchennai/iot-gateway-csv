@@ -18,8 +18,8 @@ Device_ID,Data_Type,Address,Length,Queryno
 1,FC03,101,30,Q1
 1,FC03,131,30,Q2
 1,FC03,161,2,Q3
-2,FC03,100,30,Q4
-2,FC03,130,30,Q5
+2,FC03,101,30,Q4
+2,FC03,131,30,Q1
 QEND,,,,
 ,,,,
 Plant_ID,Tag_Type,Variable_ID,,
